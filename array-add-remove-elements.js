@@ -26,3 +26,11 @@ friends.splice(2,3)  // 2 no. index theke 3 item remove korbe.
 console.log(friends)
 friends.splice(2,2,'al','mal') 
 console.log(friends)
+
+
+//concat-->
+
+let array1=['a','b','c']
+let array2=['d','e','f']
+all_array=array1.concat(array2)
+console.log(all_array)
