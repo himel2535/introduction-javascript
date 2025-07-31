@@ -34,3 +34,11 @@ let array1=['a','b','c']
 let array2=['d','e','f']
 all_array=array1.concat(array2)
 console.log(all_array)
+
+
+// slice-->
+
+let fruitss = ["apple", "banana", "mango", "grape", "lemon"];
+let sliced = fruitss.slice(1, 4);
+console.log(sliced);   
+console.log(fruitss); 
