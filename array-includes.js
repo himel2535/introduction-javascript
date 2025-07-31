@@ -13,3 +13,10 @@ if(friends.includes('nijhum')){
 else{
     console.log('as ur wish as well as')
 }
+
+
+let funboy=['himel','jafar','ataor','mahdi','adib','nijhum']
+
+console.log('Funboy Are:',funboy)
+console.log('index of finders',funboy.indexOf('ataor'))
+console.log(funboy.indexOf('moja'))
