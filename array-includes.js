@@ -24,3 +24,5 @@ console.log(funboy.indexOf('moja'))
 console.log(Array.isArray(funboy))
 const food='ros o gol a'
 console.log(Array.isArray(food))
+
+console.log(funboy.join(' + '))
