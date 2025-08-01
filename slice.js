@@ -18,3 +18,12 @@ console.log(fname.split(','))
 //join -->
 let friendName=['himel','monwar','anwar','jafar'];
 console.log(friendName.join(' +   '))
+
+//concat-->
+const first="monwar"
+const last="hossan"
+const nick="himel"
+const fullname=first+' '+last;
+console.log(fullname)
+const fName=first.concat(' ').concat(last,' ',nick);
+console.log(fName)
