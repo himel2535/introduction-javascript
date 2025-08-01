@@ -14,3 +14,7 @@ console.log(s.split('b'))
 
 const fname= "rahim,karim,fahim,jarim"
 console.log(fname.split(','))
+
+//join -->
+let friendName=['himel','monwar','anwar','jafar'];
+console.log(friendName.join(' +   '))
