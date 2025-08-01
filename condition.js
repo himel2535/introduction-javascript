@@ -1,20 +1,20 @@
-const mark=53;
+const mark=90;
 if (mark >= 80){
     console.log('A+')
 }
-if(mark >= 70){
+else if(mark >= 70){
     console.log('A')
 }
-if(mark >=60){
+else if(mark >=60){
     console.log('A-')
 }
-if (mark>=50){
+else if (mark>=50){
     console.log('B')
 }
-if(mark>=40){
+else if(mark>=40){
     console.log('c')
 }
-if(mark>=33){
+else if(mark>=33){
     console.log('D')
 }
 else{
