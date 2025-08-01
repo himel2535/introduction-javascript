@@ -27,3 +27,7 @@ const fullname=first+' '+last;
 console.log(fullname)
 const fName=first.concat(' ').concat(last,' ',nick);
 console.log(fName)
+
+
+//includes-->
+console.log(last.includes('h'))
