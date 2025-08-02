@@ -8,9 +8,9 @@ const mobile ={
 //for of ::: array
 //for in ::: object
 for (const prop in mobile){
-    console.log(prop)
+    console.log(prop,'=',mobile[prop])
 
-    console.log(mobile[prop])
+    // console.log(mobile[prop])
 }
 
 const keys = Object.keys(mobile);
